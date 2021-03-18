@@ -1,0 +1,17 @@
+* ERIBA
+
+Dieses Repository enthält einen Biblbiothek von CAD Zeichnungen und STL Dateien einiger Bauteile der alten Eriba Wohnwagen. Sie dient der Nachfertigung von Ersatzteilen, die entweder gar nicht mehr oder schwer erhältlich sind.
+
+ WORK IN PROGRESS
+
+* Software
+
+Die Dateien mit der Endung =FCStd= sind Dateien, die mit einer aktuellen Version von FreeCad 0.19 erstellt worden sind. Siehe https://www.freecadweb.org/. In den einzelnen Ordnern befinden sich in der Regel auch STL Dateien, die von Github zur Voransicht angezeigt werden können.
+
+* Status
+
+Alle Modelle sind aktuell nicht masstabsgetreue, nicht funktionsfähige Demonstrationen.
+
+* Lizenz
+
+https://creativecommons.org/licenses/by-sa/4.0/
