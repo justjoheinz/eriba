@@ -1,0 +1,8 @@
+* Status
+
+Abmessungen und Bilder  von einen Eriba 74
+
+* Errata
+
+** TODO Der Kurvenverlauf des Knauf ist anders
+** TODO Der Zylinder mit der Gewindefassung ist konisch

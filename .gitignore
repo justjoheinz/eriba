@@ -1,1 +1,5 @@
+# Freecad stuff
 *.FCStd1
+
+# Mac Stuff
+.DS_Store
